@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QR Contact Saver</string>
+    <string name="action_settings">Create QR</string>
+    <string name="Empty_name">Name is empty!</string>
+    <string name="onPermissionDenied">Permissions Denied.</string>
+    <string name="onPleaseAllow">Please allow permissions so the QR Contacts can work properly.</string>
+    <string name="okText">OK</string>
+    <string name="cancelString">Cancel</string>
+    <string name="scanErrorText">Scan Error</string>
+    <string name="checkInternetText">Please check your internet connection status!</string>
+    <string name="invalidFieldText">Invalid input, Field is empty!</string>
+    <string name="tryAgaingText">Try again!</string>
+    <string name="qrSuccessText">Your QR code has been successfully generated</string>
+    <string name="downloadImageTitle">QR Contacts</string>
+    <string name="downloadImageDescription">Downloading QR Image, please wait…</string>
+    <string name="ActivityResultQRCodenotScanned">QR Code could not be scanned</string>
+    <string name="press_the_camera_icon_to_scan_qr_code">Press the camera icon to scan QR code</string>
+    <string name="scan">Scan</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
